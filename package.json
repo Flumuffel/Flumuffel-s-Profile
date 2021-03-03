@@ -4,7 +4,6 @@
   "description": "Discord RPC",
   "main": "index.js",
   "dependencies": {
-    "discord-rpc": "git+https://github.com/discord/discord-rpc.git"
   },
   "devDependencies": {},
   "scripts": {
