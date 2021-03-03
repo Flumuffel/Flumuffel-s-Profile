@@ -26,4 +26,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i discord-rpc
-    - run: index.js
+    - run: node index.js
